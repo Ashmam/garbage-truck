@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 学习markdown第一天（markdown一级标题）<br>
 ## markdown二级标题<br>
 #### markdown三级标题<br>
+=======
+#学习markdown第一天（markdown一级标题）<br>
+##markdown二级标题<br>
+####markdown三级标题<br>
+>>>>>>> parent of bb0cf8d... update studynote1.md
 
 =======
 #学习markdown第一天（markdown一级标题）
