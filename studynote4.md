@@ -35,4 +35,4 @@ print()
 
  格式：![图片别名](网络路径)
 
-	![github](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2759091851,1881379324&fm=26&gp=0.jpg)
+ ![github](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2759091851,1881379324&fm=26&gp=0.jpg)
