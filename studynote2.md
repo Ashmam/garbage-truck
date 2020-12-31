@@ -26,7 +26,7 @@
 
 ## 删除线
 
-    markdown
+markdown  
   ~~markdown~~
   
 ## 链接
