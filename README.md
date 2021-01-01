@@ -11,3 +11,5 @@ i don't konw what happen!~~
 
 
 [vim教程网址]: https://github.com/dofy/learn-vim
+
+> **studynote5.md中表格对齐方式设置无效，数学公式无效，diff语法无效。在此记录，以待将来**  
